@@ -1,0 +1,183 @@
+{
+    "contraCheque": [
+        {
+            "idContraCheque": "mpsc/02/2018/1",
+            "chaveColeta": "mpsc/02/2018",
+            "nome": "Abel Antunes de Mello",
+            "funcao": "Cargo: Procurador de Justiça Função: Coordenador da Coord. de Rec. Criminais Função: Membro do Conselho Sup. do MP - Titular",
+            "localTrabalho": "Cons. Superior e Colégio Gab 27º Proc Criminal Gab Coord CR Crim",
+            "ativo": true,
+            "remuneracoes": {
+                "remuneracao": [
+                    {
+                        "categoria": "contracheque",
+                        "item": "Remuneração do Cargo Efetivo",
+                        "valor": 30064.79
+                    },
+                    {
+                        "categoria": "contracheque",
+                        "item": "Outras Verbas Remuneratórias Legais/Judiciais",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "contracheque",
+                        "item": "Função de Confiança ou Cargo em Comissão",
+                        "valor": 3006.47,
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "contracheque",
+                        "item": "Adicional de Férias",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "contracheque",
+                        "item": "Abono de Permanência",
+                        "valor": 4209.07,
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "natureza": "D",
+                        "categoria": "contracheque",
+                        "item": "Retenção do Teto"
+                    },
+                    {
+                        "natureza": "D",
+                        "categoria": "contracheque",
+                        "item": "Imposto de Renda",
+                        "valor": -8173.09
+                    },
+                    {
+                        "natureza": "D",
+                        "categoria": "contracheque",
+                        "item": "Contribuição Previdenciária",
+                        "valor": -4209.07
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Ajuda de Custo",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Auxílio-Alimentação",
+                        "valor": 1460.0,
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Auxílio-Creche",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Auxílio-Educação",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Auxílio-Moradia",
+                        "valor": 4377.72,
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Auxílio-Saúde",
+                        "valor": 364.28,
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Auxílio-Transporte Estagiários",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Conversão de Licença-Prêmio",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Indenização de Férias",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Indenização de Transporte",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Ressarcimento de Despesas",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Ressarcimento por uso de veículo próprio",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Ajuda de Custo - remu",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Auxílio-Educação - remu",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Auxílio-Saúde - remu",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Diferença de Entrância - remu",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Diferenças Salariais – Ajustes - remu",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Estorno de tributos e contribuições - remu",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Gratificação Turma de Recursos - remu",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Gratificação Coordenador Administrativo - remu",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Gratificação por Cumulação de Função - remu",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Horas-Extras - remu",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Substituição de cargo comissionado - remu",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Substituição de Função Gratificada - remu",
+                        "tipoReceita": "O"
+                    }
+                ]
+            }
+        }
+    ]
+}
