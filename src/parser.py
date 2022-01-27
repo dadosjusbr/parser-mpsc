@@ -67,9 +67,7 @@ def cria_remuneracao(row, categoria):
 def update_employees(fn, employees, categoria):
     for row in fn:
         name = row[1]
-        # print(name)
         if name in employees.keys():
-            # print(name)
             emp = employees[name]
             remu = cria_remuneracao(row, categoria)
             emp.remuneracoes.MergeFrom(remu)
