@@ -51,7 +51,7 @@ def parse_execution(data, file_names):
 
     # Consolida folha de pagamento
     folha = Coleta.FolhaDePagamento()
-    folha = parse(data, coleta.chave_coleta, month, year)
+    folha = parse(data, coleta.chave_coleta, year)
 
     # Monta resultado da coleta.
     rc = Coleta.ResultadoColeta()
