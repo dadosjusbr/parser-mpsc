@@ -76,7 +76,7 @@ def update_employees(fn, employees, categoria):
     return employees
 
 
-def parse(data, chave_coleta, year):
+def parse(data, chave_coleta, month, year):
     employees = {}
     folha = Coleta.FolhaDePagamento()
 
