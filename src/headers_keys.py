@@ -1,5 +1,6 @@
 CONTRACHEQUE = "contracheque"
 INDENIZACOES = "indenizacoes"
+INDENIZACOES_2021 = "indenizacoes_2021"
 
 HEADERS = {
     CONTRACHEQUE: {
@@ -39,5 +40,32 @@ HEADERS = {
         "Horas-Extras - remu": 29,
         "Substituição de cargo comissionado - remu": 30,
         "Substituição de Função Gratificada - remu": 31
+    },
+
+    INDENIZACOES_2021: {
+        "Ajuda de Custo": 7,
+        "Auxílio-Alimentação": 8,
+        "Auxílio-Creche": 9,
+        "Auxílio-Educação": 10,
+        "Auxílio-Moradia": 11,
+        "Auxílio-Saúde": 12,
+        "Indenização da Licença Compensatória": 13,
+        "Indenização de Férias": 14,
+        "Indenização de Transporte": 15,
+        "Ressarcimento de Despesas": 16,
+        "Ressarcimento por uso de veículo próprio": 17,
+
+        "Conversão de Licença-Prêmio": 19,
+        "Diferença de Entrância": 20,
+        "Diferenças Salariais - Ajustes": 21,
+        "Estorno de tributos e contribuições": 22,
+        "Gratificação Programa ATUA": 23,
+        "Gratificação Coordenador Administrativo": 24,
+        "Gratificação Especial - Concurso": 25,
+        "Gratificação por Cumulação de Função": 26,
+        "Horas-Extras": 27,
+        "Indenização de Férias": 28,
+        "Substituição de cargo comissionado": 29,
+        "Substituição de Função Gratificada": 30
     },
 }
